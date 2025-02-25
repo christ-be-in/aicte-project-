@@ -42,5 +42,5 @@ The system modifies pixel values to encode and retrieve hidden messages securely
 
 Install dependencies using:
 ```bash
-pip install opencv-python
+pip install -python
 ```
